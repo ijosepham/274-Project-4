@@ -1,7 +1,9 @@
 import java.awt.Point;
 
 /**
- *this is a queue that will keep track of open points
+ * @author joey pham
+ * @date 17 november 2018
+ * @description this is a queue that will keep track of open points
  */
 public class LinkedQueue {
 	

@@ -1,7 +1,9 @@
 import java.awt.Point;
 
 /**
- *this is a stack that will keep track of open points
+ * @author joey pham
+ * @date 17 November 2018
+ * @description this is a stack that will keep track of open points
  */
 public class LinkedStack {
 	
